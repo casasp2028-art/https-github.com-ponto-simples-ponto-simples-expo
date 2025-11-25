@@ -1,4 +1,0 @@
-git clone https://github.com/ponto-simples/ponto-simples-expo.git
-cd ponto-simples-expo
-npm install
-npx expo start
